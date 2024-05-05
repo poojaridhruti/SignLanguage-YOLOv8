@@ -1,0 +1,5 @@
+__pycache__/
+
+/venv
+/weights
+yolov8l.pt

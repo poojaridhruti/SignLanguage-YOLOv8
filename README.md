@@ -1,2 +1,1 @@
-# SignLanguage-YOLOv8
-ASL alphabets detection using YOLOv8 model
+# Live Object Detection with OpenCV, Supervision & Yolov8
